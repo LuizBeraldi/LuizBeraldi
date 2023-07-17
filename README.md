@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @LurdesBB
-- 👀 I’m interested in minha namorada!
-- 🌱 I’m currently learning como jogar de sejuani jungle!
-- 💞️ I’m looking to collaborate on meu futuro pq não quero pagar aluguel!
-- 📫 How to reach me, não tente!
+<h1 align="center">Aoba, eu sou o Luiz</h1>
+<h3 align="center">Sou do Brasil penta campeão</h3>
 
-<!---
-LurdesBB/LurdesBB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lurdesbb&label=Profile%20views&color=10b40e&style=flat" alt="lurdesbb" /> </p>
+
+<p align="left"> <a href="https://twitter.com/luizberaldi" target="blank"><img src="https://img.shields.io/twitter/follow/luizberaldi?logo=twitter&style=for-the-badge" alt="luizberaldi" /></a> </p>
+
+- 👀 I’m interested in **minha namorada!**
+
+- 🌱 I’m currently learning **como jogar de sejuani jungle!**
+
+- 👯 I’m looking to collaborate on **meu futuro pq não quero pagar aluguel!**
+
+- 📫 How to reach me, **não tente**
+
+- ⚡ Fun fact **não sei o que estou fazendo**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/luizberaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luizberaldi" height="30" width="40" /></a>
+<a href="https://instagram.com/luiz.beraldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luiz.beraldi" height="30" width="40" /></a>
+<a href="https://discord.gg/beraldi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="beraldi23" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lurdesbb&show_icons=true&title_color=050505&text_color=030303&bg_color=0a95eb&locale=en&layout=compact" alt="lurdesbb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lurdesbb&show_icons=true&title_color=080808&text_color=000000&bg_color=8b07e4&locale=en" alt="lurdesbb" /></p>
