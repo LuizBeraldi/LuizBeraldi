@@ -1,7 +1,7 @@
 <h1 align="center">Aoba, eu sou o Luiz</h1>
 <h3 align="center">Sou do Brasil penta campeão</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lurdesbb&label=Profile%20views&color=10b40e&style=flat" alt="lurdesbb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lurdesbb&label=Profile%20views&color=10b40e&style=flat" alt="LuizBeraldi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/luizberaldi" target="blank"><img src="https://img.shields.io/twitter/follow/luizberaldi?logo=twitter&style=for-the-badge" alt="luizberaldi" /></a> </p>
 
