@@ -1,19 +1,9 @@
-<h1 align="center">Aoba, eu sou o Luiz</h1>
-<h3 align="center">Sou do Brasil penta campeão</h3>
+<h1 align="center">Prazer, eu sou o Luiz</h1>
+<h3 align="center">Estudante de Ciência da Computação - UEL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizBeraldi&label=Profile%20views&color=10b40e&style=flat" alt="LuizBeraldi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/luizberaldi" target="blank"><img src="https://img.shields.io/twitter/follow/luizberaldi?logo=twitter&style=for-the-badge" alt="luizberaldi" /></a> </p>
-
-- 👀 I’m interested in **minha namorada!**
-
-- 🌱 I’m currently learning **como jogar de sejuani jungle!**
-
-- 👯 I’m looking to collaborate on **meu futuro pq não quero pagar aluguel!**
-
-- 📫 How to reach me, **não tente**
-
-- ⚡ Fun fact **não sei o que estou fazendo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
