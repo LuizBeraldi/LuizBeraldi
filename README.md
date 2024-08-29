@@ -20,4 +20,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBeraldi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&layout=pie&title_color=050505&text_color=030303&bg_color=0a95eb)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&layout=pie&title_color=ffffff&text_color=ffffff&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
