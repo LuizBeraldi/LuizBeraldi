@@ -18,11 +18,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&layout=pie&title_color=ffffff&text_color=ffffff&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7131e8ea-ae61-4b06-8790-2e256c85ed43)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuizBeraldi&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&layout=pie&title_color=ffffff&text_color=ffffff&bg_color=000000)&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/ username=LuizBeraldi&layout=pie&title_color=ffffff&text_color=ffffff&bg_color=000000)&layout=compact&langs_count=8&card_width=320" />
 </a>
