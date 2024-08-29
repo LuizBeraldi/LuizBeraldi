@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizBeraldi&show_icons=true&title_color=050505&text_color=030303&bg_color=0a95eb&locale=en&layout=compact" alt="LuizBeraldi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizBeraldi&show_icons=true&title_color=080808&text_color=000000&bg_color=8b07e4&locale=en" alt="LuizBeraldi" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBeraldi)](https://github.com/anuraghazra/github-readme-stats)
