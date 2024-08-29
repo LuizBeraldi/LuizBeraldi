@@ -20,4 +20,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBeraldi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&layout=pie&bg_color=8b07e4)](https://github.com/anuraghazra/github-readme-stats)
