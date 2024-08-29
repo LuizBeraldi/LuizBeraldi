@@ -18,4 +18,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&layout=pie&title_color=ffffff&text_color=ffffff&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuizBeraldi)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7131e8ea-ae61-4b06-8790-2e256c85ed43)](https://github.com/anuraghazra/github-readme-stats)
