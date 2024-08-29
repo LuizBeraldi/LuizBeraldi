@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizBeraldi&show_icons=true&title_color=080808&text_color=000000&bg_color=8b07e4&locale=en" alt="LuizBeraldi" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBeraldi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&hide_progress=true)
