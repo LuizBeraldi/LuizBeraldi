@@ -1,5 +1,5 @@
 <h1 align="center">Pode me chamar de Beraldi</h1>
-<h3 align="center">Estudante de Ciência da Computação - UEL</h3>
+<h3 align="center">Formado em Ciência da Computação - UEL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizBeraldi&label=Profile%20views&color=10b40e&style=flat" alt="LuizBeraldi" /> </p>
 
