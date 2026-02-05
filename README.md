@@ -1,19 +1,17 @@
-<h1 align="center">Pode me chamar de Beraldi</h1>
-<h3 align="center">Formado em Ciência da Computação - UEL</h3>
+## Eai, me chamo Luiz Beraldi e sou formado em Ciência da Computação pela UEL
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuizBeraldi&label=Profile%20views&color=10b40e&style=flat" alt="LuizBeraldi" /> </p>
+<div>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizBeraldi&show_icons=true&&include_all_commits=true&count_private=true&theme=dark">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizBeraldi&langs_count=true&layout=compact&theme=dark">
+</div>
 
-<p align="left"> <a href="https://twitter.com/luizberaldi" target="blank"><img src="https://img.shields.io/twitter/follow/luizberaldi?logo=twitter&style=for-the-badge" alt="luizberaldi" /></a> </p>
+<div align="center"><br>
+  <img align="center" alt="Gab-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Gab-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gab-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Gab-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Gab-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gab-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/luiz.beraldi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luiz.beraldi" height="30" width="40" /></a>
-<a href="https://discord.gg/beraldi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="beraldi23" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBeraldi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBeraldi&layout=pie&title_color=ffffff&text_color=ffffff&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+##
